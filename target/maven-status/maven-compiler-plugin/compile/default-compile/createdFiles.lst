@@ -1,0 +1,7 @@
+com/incometax/controller/IncomeTaxCalculatorController.class
+com/incometax/util/CalculateOldTax.class
+com/incometax/IncomeTaxApplication.class
+com/incometax/service/IncomeTaxCalculatorService.class
+com/incometax/dto/IncomeTaxFormDTO.class
+com/incometax/configuration/CorsConfiguration.class
+com/incometax/configuration/CorsConfiguration$1.class
